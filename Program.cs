@@ -5,12 +5,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-/*
-    Создать приложение-напоминалку. Пользователь может создавать таймер,
-    который будет запускаться раз в указанное
-    время и предупреждать о каком-то деле, которое тоже задаёт пользователь.
-     */
-
 namespace TimerHW
 {
     class Program
